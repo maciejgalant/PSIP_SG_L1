@@ -2,5 +2,5 @@
 
 Lab 1
 
-* Maciej - Kutnowski
+
 
